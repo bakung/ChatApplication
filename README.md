@@ -35,7 +35,3 @@ To terminate the server or client application, simply close the respective termi
 ## Screenshots
 Include screenshots of the text-based user interface of both the server and client applications to provide a visual representation of the chat application.
 
-## Additional Notes
-- This is a basic implementation of an online chat application and may lack advanced features such as user authentication, message encryption, etc.
-- Feel free to extend the functionality or improve the user interface as per your requirements.
-
